@@ -1,0 +1,16 @@
+{
+  "name": "dailydots",
+  "private": true,
+  "version": "0.1.2",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo no tests yet"
+  },
+  "dependencies": { "vue": "^3.4.0" },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-vue": "^5.0.0"
+  }
+}
